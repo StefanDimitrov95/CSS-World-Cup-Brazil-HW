@@ -139,7 +139,7 @@ td:nth-child(8) {
 }
 
 #nl p:before {
-	content:url('Resources/nl.png');
+	content:url('Resources/NL.png');
 	padding: 5px;
 }
 
